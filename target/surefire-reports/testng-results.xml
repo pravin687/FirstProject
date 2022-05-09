@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="949" started-at="2022-04-01T21:40:13 IST" finished-at="2022-04-01T21:40:14 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="949" started-at="2022-04-01T21:40:13 IST" finished-at="2022-04-01T21:40:14 IST">
+      <class name="selenium.reports">
+        <test-method status="PASS" signature="config()[pri:0, instance:selenium.reports@25af5db5]" name="config" is-config="true" duration-ms="354" started-at="2022-04-01T21:40:13 IST" finished-at="2022-04-01T21:40:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="reportdata()[pri:0, instance:selenium.reports@25af5db5]" name="reportdata" duration-ms="14" started-at="2022-04-01T21:40:14 IST" finished-at="2022-04-01T21:40:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportdata -->
+        <test-method status="PASS" signature="reportdata1()[pri:0, instance:selenium.reports@25af5db5]" name="reportdata1" duration-ms="1" started-at="2022-04-01T21:40:14 IST" finished-at="2022-04-01T21:40:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportdata1 -->
+        <test-method status="PASS" signature="endreport()[pri:0, instance:selenium.reports@25af5db5]" name="endreport" is-config="true" duration-ms="515" started-at="2022-04-01T21:40:14 IST" finished-at="2022-04-01T21:40:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endreport -->
+      </class> <!-- selenium.reports -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
